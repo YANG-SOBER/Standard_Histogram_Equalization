@@ -18,4 +18,4 @@ For more detail, readers may refer to [Homography Equalization](https://www.ipb.
 
 ### Result (Histogram Equalization with Linear Transformation Function)
 
-<img src="https://github.com/YANG-SOBER/Standard_Histogram_Equalization/blob/main/hist_equal_1st_night.jpeg" width=90% height=90%>
+<img src="https://github.com/YANG-SOBER/Standard_Histogram_Equalization/blob/main/hist_equal_1st_night.jpeg" width=200% height=200%>
