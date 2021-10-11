@@ -28,6 +28,10 @@ For more detail, readers may refer to [Homography Equalization by Prof. Cyrill S
 
 ### Result (Histogram Equalization with Linear Transformation Function) (courtesy of Prof. Cyrill Stachniss)
 
+<img src="https://github.com/YANG-SOBER/Standard_Histogram_Equalization/blob/main/result/hist_equal_1st_milan.png" width=75% height=75%>
+
+<img src="https://github.com/YANG-SOBER/Standard_Histogram_Equalization/blob/main/result/hist_equal_2nd_milan.png" width=75% height=75%>
+
 <img src="https://github.com/YANG-SOBER/Standard_Histogram_Equalization/blob/main/result/hist_equal_1st_girl.png" width=75% height=75%>
 
 <img src="https://github.com/YANG-SOBER/Standard_Histogram_Equalization/blob/main/result/hist_equal_2nd_girl.png" width=75% height=75%>
