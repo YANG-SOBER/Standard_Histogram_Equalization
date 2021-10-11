@@ -26,7 +26,7 @@ For more detail, readers may refer to [Homography Equalization by Prof. Cyrill S
 2. Adaptive Histogram Equalization (AHE) has issues in low contrast regions as it **overamplifies the corrections**
 3. Contrast Limited Adaptive Histogram Equalization (CLAHE) limits this over-amplifications in homogeneous regions
 
-### Result (Histogram Equalization with Linear Transformation Function) (courtesy of Prof. Cyrill Stachniss)
+### Result (Histogram Equalization with Linear Transformation Function)
 
 <img src="https://github.com/YANG-SOBER/Standard_Histogram_Equalization/blob/main/result/hist_equal_1st_milan.png" width=75% height=75%>
 
